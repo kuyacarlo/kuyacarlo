@@ -3,18 +3,9 @@
 ### Heya! I’m John Carlo Santos (aka Karlo)  
 A generalist software engineer and student. I build clean, practical web systems, tinker with UI design, and experiment with new tools. Currently focused on **Next.js apps** and **Material Design 3**, while using Python for scripting and data tasks. Hyper-focused on projects that matter, and always happy to learn, share, and collaborate.  
 
-- 👀 Interests: Web API Development, Data Analysis, **CI/CD**, Cybersecurity  
-- 🌱 Currently learning: **Android App Development** and exploring Forensics basics  
-
----
-
-## 🧩 Dev Humanual
-
-Want to see how I **learn, build, and think**? Check out my Humanual — it’s like a README for me:  
-
-[![Dev Humanual](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)](DEV_HUMANUAL.md)
-
-> Click the badge to see how I operate, collaborate, and tinker — for both devs and curious humans.
+- 👀 Interests: Web API Development, Data Engineering, **CI/CD**, Cybersecurity  
+- 🌱 Currently learning: **Go** and exploring Forensics basics
+- Want to see how I **learn, build, and think**? Check out my [Humanual](DEV_HUMANUAL.md) — it’s like a README for me.
 
 ---
 
@@ -38,10 +29,10 @@ Want to see how I **learn, build, and think**? Check out my Humanual — it’s 
   </div>
   <div>
     <a href="https://github.com/kuya-carlo#gh-light-mode-only">
-      <img src="https://readme-stats-flame-eta.vercel.app/api?username=kuya-carlo&show_icons=true&theme=vue#gh-light-mode-only" alt="My GitHub Stats"/>
+      <img src="https://grs.kuyacarlo.dev/api?username=kuya-carlo&show_icons=true&theme=vue#gh-light-mode-only" alt="My GitHub Stats"/>
     </a>
     <a href="https://github.com/kuya-carlo#gh-dark-mode-only">
-      <img src="https://readme-stats-flame-eta.vercel.app/api?username=kuya-carlo&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="My GitHub Stats"/>
+      <img src="https://grs.kuyacarlo.dev/api?username=kuya-carlo&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="My GitHub Stats"/>
     </a>
   </div>
 </div>

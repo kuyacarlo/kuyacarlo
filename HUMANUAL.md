@@ -49,12 +49,6 @@
 
 ---
 
-## ⚡ Motto
-
-> “Iterate fast. Think deep. Ship meaning.”
-
----
-
 ## 📌 Quick Links
 
 - [Dev Humanual](HUMANUAL.md) → my “developer system” version  
