@@ -28,11 +28,11 @@ A generalist software engineer and student. I build clean, practical web systems
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" alt="Docker Icon"/>
   </div>
   <div>
-    <a href="https://github.com/kuya-carlo#gh-light-mode-only">
-      <img src="https://grs.kuyacarlo.dev/api?username=kuya-carlo&show_icons=true&theme=vue#gh-light-mode-only" alt="My GitHub Stats"/>
+    <a href="https://github.com/kuyacarlo#gh-light-mode-only">
+      <img src="https://grs.kuyacarlo.dev/api?username=kuyacarlo&show_icons=true&theme=vue#gh-light-mode-only" alt="My GitHub Stats"/>
     </a>
-    <a href="https://github.com/kuya-carlo#gh-dark-mode-only">
-      <img src="https://grs.kuyacarlo.dev/api?username=kuya-carlo&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="My GitHub Stats"/>
+    <a href="https://github.com/kuyacarlo#gh-dark-mode-only">
+      <img src="https://grs.kuyacarlo.dev/api?username=kuyacarlo&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="My GitHub Stats"/>
     </a>
   </div>
 </div>
