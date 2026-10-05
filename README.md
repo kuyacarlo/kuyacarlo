@@ -1,46 +1,54 @@
-# Iterate fast, think deep, ship meaning.
+# John Carlo Santos (kuyacarlo)
 
-> *"Think with reason, build with passion."*
+> **Software & Systems Engineer · CTO @ [Seekers Guild](https://github.com/seekersguild) · BS Computer Engineering @ BulSU ('28)**  
+> *Actively open to full-time engineering, data engineering, DevOps, and contract roles.*  
+> 🌐 **[kuyacarlo.dev](https://kuyacarlo.dev)** • 💼 **[LinkedIn](https://linkedin.com/in/kuyacarlo)** • 📬 **santos.karlo@outlook.com**
 
-### Heya! I’m John Carlo Santos (aka Karlo)  
-A generalist software engineer and student. I build clean, practical web systems, tinker with UI design, and experiment with new tools. Currently focused on **Next.js apps** and **Material Design 3**, while using Python for scripting and data tasks. Hyper-focused on projects that matter, and always happy to learn, share, and collaborate.  
-
-- 👀 Interests: Web API Development, Data Engineering, **CI/CD**, Cybersecurity, civic tech  
-- 🌱 Currently learning: **Go** and exploring Forensics basics
-- Want to see how I **learn, build, and think**? Check out my [Humanual](HUMANUAL.md) — it’s like a README for me.
+```text
+"Think with reason, build with passion. Iterate fast, think deep, ship meaning."
+```
 
 ---
 
-## Stuff I Use
+## ⚡ What I Build & Operate
 
-<div align='center'>
-  <div>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python Icon"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi3.svg" alt="FastAPI Icon"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" alt="Linux Icon"/>
-  </div>
-  <div>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" alt="VS Code Icon"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim1.svg" alt="Vim Icon"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm3.svg" alt="Pycharm Icon"/>
-  </div>
-  <div>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git Icon"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg" alt="Shell Icon"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" alt="Docker Icon"/>
-  </div>
-  <div>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg" alt="Go Icon"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" alt="Next.js Icon"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" alt="TypeScript Icon"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" alt="TailwindCSS Icon"/>
-  </div>
-  <div>
-    <a href="https://github.com/kuyacarlo#gh-light-mode-only">
-      <img src="https://grs.kuyacarlo.dev/api?username=kuyacarlo&show_icons=true&theme=vue#gh-light-mode-only" alt="My GitHub Stats"/>
-    </a>
-    <a href="https://github.com/kuyacarlo#gh-dark-mode-only">
-      <img src="https://grs.kuyacarlo.dev/api?username=kuyacarlo&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="My GitHub Stats"/>
-    </a>
-  </div>
-</div>
+I engineer high-throughput data pipelines, fail-closed DevSecOps guardrails, and autonomous agent harnesses—bridging low-level systems (Linux kernel modules, rootless Podman Quadlets, Go CLI tools) with production agentic AI architectures (LangGraph, Model Context Protocol, FastMCP, FastAPI).
+
+- 🔭 **Current Focus**: Autonomous agent execution harnesses, edge telemetry, and developer productivity tooling.
+- 🏛️ **Leadership**: Chief Technology Officer @ Seekers Guild, directing technical infrastructure, auth architectures, and developer mentorship.
+- 📍 **Location**: Bulakan / Manila, Philippines (GMT+8).
+
+---
+
+## 🏆 Featured Projects & Hackathon Proof-of-Work
+
+| Project | Stack | Focus & Impact |
+|---|---|---|
+| **[ComplyAIgent](https://github.com/liitkud/complyaigent)** | `Go` `LangGraph` `FastAPI` `Gitleaks` | Agentic DevSecOps engine compiling regulatory text into fail-closed pre-push git hooks with Auth0 CIBA smartphone approvals. *AMD Developer Hackathon 2026*. |
+| **[git-profile & ssh-profile](https://github.com/kuyacarlo/git-profile)** | `Go` `Git` `SSH` | Production Go CLI suite for seamlessly switching multiple Git identities, GPG signing keys, and scoped SSH URLs per repo. |
+| **[WorkSight](https://github.com/4sightorg/worksight)** | `Python` `LangGraph` `Next.js` | Agentic workplace intelligence platform turning fragmented enterprise metadata into predictive burnout insights. *Top 3 Finalist @ BPI DataWave 2025*. |
+| **[BetterTranspo](https://github.com/kuyacarlo)** | `IoT` `LoRaWAN` `Next.js` | Decentralized public transit platform integrating BEEP™ card payments, vehicle tracking, and passenger density meters. *1st Runner Up @ LPU Innoverse 2025*. |
+| **[KLIMA](https://github.com/Signal-No-5/klima)** | `FastAPI` `Flutter` `ETL` | Bronze→Silver→Gold environmental data processing pipeline delivering localized flood risk alerts for Calumpit LGU. *PJDSC 2025*. |
+| **[SAGE](https://github.com/kuyacarlo/sage-mcp)** | `Python` `FastMCP` `Notion API` | Autonomous academic co-pilot using Model Context Protocol (MCP) to ingest CHED curricula into Notion. *MLH Notion MCP Challenge*. |
+| **[Bantay](https://github.com/kuyacarlo/bantay)** | `LangGraph` `Auth0 CIBA` `Python` | Two-layer pre-push git security hook pairing local pattern matching with async smartphone approvals for AI agents. |
+| **[freestack](https://github.com/kuyacarlo/freestack)** | `TypeScript` `Markdown` | Curated open-source directory of free developer tiers, student unlocks, and startup resources with commercial notes. |
+| **[room-tba](https://github.com/kuyacarlo/room-tba)** | `Svelte` `TypeScript` | Automated campus schedule and vacancy finder for BulSU students under the BulSUTools initiative. |
+
+---
+
+## 🛠️ Technical Stack & Tooling
+
+```
+Languages       Python, TypeScript/JavaScript, Go, Dart, SQL, Bash/Shell, C
+Backend & AI    FastAPI, LangGraph, Model Context Protocol (MCP / FastMCP), REST APIs, pytest
+Data Eng        DuckDB, PostgreSQL, SQLite, Pandas, NumPy, ETL Pipelines, Web Scraping
+DevOps & Infra  Podman (Rootless / Quadlets), Docker, GitHub/Forgejo Actions CI/CD, Linux Hardening, GPG
+Cloud Platforms GCP (Cloud Run, Compute Engine), AWS (Lambda, S3), Supabase, Cloudflare Workers
+```
+
+---
+
+## 🔗 Connect & Collaborate
+
+- 💬 Let's talk engineering, hackathons, or open roles: **[Book a call on Cal.com](https://kuyacarlo.dev/book)**
+- 📝 Read technical notes and homelab writeups: **[kuyacarlo.dev/notes](https://kuyacarlo.dev/notes)**
